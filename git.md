@@ -13,3 +13,4 @@ git remote -v   meg tudjuk nézni van e repo
 git push    git push --set-upstream origin master (első alkalommal ezt mindig)
 
 kismacska
+István itt járt 
